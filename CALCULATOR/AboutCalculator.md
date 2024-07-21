@@ -1,4 +1,4 @@
-
+                                                  CALCULATOR
 To design a simple calculator with basic arithmetic operations.
 
 1. It will prompt the user to input two numbers and an operation choice.
